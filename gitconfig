@@ -1,0 +1,5 @@
+user.name=Joshua Chiu
+user.email=joshchiu@student.ubc.ca
+user.signingKey=/home/josh/.ssh/id_ed25519.pub
+gpg.format=ssh
+pull.rebase=true
